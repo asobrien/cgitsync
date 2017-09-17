@@ -38,7 +38,7 @@ Installation
 
     ```bash
     curl -sL https://github.com/asobrien/cgitsync/archive/master.tar.gz | \
-        tar --strip=1 -C /usr/local/bin -xvf - cgitsync/cgitsync.py
+        tar --strip=1 -C /usr/local/bin -xvf - cgitsync-master/cgitsync.py
     ```
 
     You may want rename the file for convenience: 
