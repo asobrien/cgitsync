@@ -52,3 +52,4 @@ configuration file.
 
 Custom keys, which may be useful when using the custom provider, can be
 added to the repo, for example: `repo.foo=bar`.
+
